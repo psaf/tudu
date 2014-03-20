@@ -1,0 +1,6 @@
+suites:
+    tudu_suite:
+        namespace: Tudu
+        src_path: app
+        spec_path: app
+        spec_prefix: spec
